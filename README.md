@@ -114,15 +114,16 @@ It enables users to examine workforce composition, explore selected employee ind
 
 The project also demonstrates practical skills in data preparation, KPI reporting, dashboard design, and interactive analysis.
 
+
 ## Dashboard Screenshots
 
-### Workforce Overview
+### Page 1: Workforce Overview
 
-Screenshot will be added here.
+![HR Workforce Overview Dashboard](Workforce%20Overview.PNG)
 
-### Promotion Analysis
+### Page 2: Promotion Analysis
 
-Screenshot will be added here.
+![Employee Promotion Analysis Dashboard](Promotion%20Analysis.PNG).
 
 ## Author
 
